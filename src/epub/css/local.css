@@ -53,5 +53,5 @@ footer{
 }
 
 [epub|type~="z3998:signature"]{
-	text-align: right;
+	font-variant: small-caps;
 }
