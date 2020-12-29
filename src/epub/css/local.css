@@ -9,7 +9,7 @@ section[epub|type~="dedication"] p{
 }
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -38,7 +38,7 @@ p span.i1{
 
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 footer{
