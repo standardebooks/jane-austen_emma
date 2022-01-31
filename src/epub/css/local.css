@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 section[epub|type~="dedication"] p{
-	margin-top: 5em;
 	font-variant: small-caps;
+	margin-top: 5em;
 	text-align: center;
 	text-indent: 0;
 }
