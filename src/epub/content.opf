@@ -73,7 +73,7 @@
 		<dc:source>https://archive.org/details/emmaanovelinthr00austgoog</dc:source>
 		<dc:source>https://archive.org/details/emmaanovelinthr01austgoog</dc:source>
 		<meta property="se:production-notes">The Gutenberg transcription is based on page scans of a 3-volume edition which restarts the chapter numbering with each volume. I have combined the volumes into one and run the chapter numbers sequentially. The original Volume 1 ends at my chapter 18 and Volume 2 ends at my chapter 36. Subtracting these numbers will give you the appropriate chapter in the page scans: eg my chapter 40 matches Volume III, Chapter IV since 40 - 36 = 4.</meta>
-		<meta property="se:word-count">160836</meta>
+		<meta property="se:word-count">160834</meta>
 		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Emma_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_emma</meta>
